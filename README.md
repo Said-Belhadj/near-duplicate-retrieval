@@ -102,5 +102,3 @@ Voici quelques exemples de prédiction réalisés par notre modèle.
 - **Libraries** : PyTorch, Pandas, NumPy, PIL, sklearn, etc.
 
 ---
-
-Pour plus d'informations, veuillez consulter le rapport complet dans le document PDF joint.
