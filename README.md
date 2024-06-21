@@ -79,16 +79,16 @@ Voici quelques exemples de prédiction réalisés par notre modèle.
 ![Image Similaire 1.1](prediction.png)
 
 #### Images Similaires Prédictes :
-![Image Similaire 2.1](prediction-2.png)
+![Image Similaire 2.1](prrediction-2.png)
 
 #### Images Similaires Prédictes :
-![Image Similaire 3.1](prediction-3.png)
+![Image Similaire 3.1](prrediction-3.png)
 
 #### Images Similaires Prédictes :
-![Image Similaire 4.1](prediction-4.png)
+![Image Similaire 4.1](prrediction-4.png)
 
 #### Images Similaires Prédictes :
-![Image Similaire 5.1](prediction-5.png)
+![Image Similaire 5.1](prrediction-5.png)
 
 
 ## Technologies utilisées
