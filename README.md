@@ -74,19 +74,22 @@ Les performances du modèle ont été évaluées sur deux tâches principales : 
 ## Exemples de Prédiction
 Voici quelques exemples de prédiction réalisés par notre modèle.
 
-### Exemple 1 : Image de Référence
-![Image de Référence 1](path_to_reference_image_1.png)
+### Exemple 1 : 
 #### Images Similaires Prédictes :
-1. ![Image Similaire 1.1](path_to_similar_image_1_1.png)
-2. ![Image Similaire 1.2](path_to_similar_image_1_2.png)
-3. ![Image Similaire 1.3](path_to_similar_image_1_3.png)
+1. ![Image Similaire 1.1](prediction.png)
 
-### Exemple 2 : Image de Référence
-![Image de Référence 2](path_to_reference_image_2.png)
 #### Images Similaires Prédictes :
-1. ![Image Similaire 2.1](path_to_similar_image_2_1.png)
-2. ![Image Similaire 2.2](path_to_similar_image_2_2.png)
-3. ![Image Similaire 2.3](path_to_similar_image_2_3.png)
+1. ![Image Similaire 2.1](prediction-2.png)
+
+   #### Images Similaires Prédictes :
+1. ![Image Similaire 3.1](prediction-3.png)
+
+   #### Images Similaires Prédictes :
+1. ![Image Similaire 4.1](prediction-4.png)
+
+   #### Images Similaires Prédictes :
+1. ![Image Similaire 5.1](prediction-5.png)
+
 
 ## Technologies utilisées
 - **Python**
