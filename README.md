@@ -34,7 +34,7 @@ Après l'augmentation des données, le dataset comprend désormais 2 192 images 
 ![distribution](distribution.png)
 
 ## Architecture proposée
-Le modèle développé pour ce projet repose sur plusieurs variantes de ResNet, notamment ResNet 152, ResNet 34 et ResNet 18. Le modèle a été entraîné sur 60 epochs avec deux fonctions de coût différentes pour une tâche de classification : la cross-entropy et la triplet margin.
+Le modèle développé pour ce projet repose sur un de ResNet34. Le modèle a été entraîné sur 60 epochs avec deux fonctions de coût différentes pour une tâche de classification : la cross-entropy et la triplet margin.
 
 ### Triplet Loss Model
 La **Triplet Margin Loss** est utilisée pour entraîner un modèle à distinguer précisément entre des exemples positifs et négatifs dans un espace d'apprentissage métrique.
@@ -44,6 +44,9 @@ Un modèle parallèle utilise la **cross-entropy** pour la classification.
 
 ### Embeddings et Similarité Cosinus
 Les deux pertes (Triplet Margin Loss et Cross-Entropy Loss) ont été utilisées pour entraîner le ResNet sur une tâche de classification afin de fournir des embeddings. Ces embeddings sont ensuite passés dans une PCA (Principal Component Analysis) pour réduire leur dimensionnalité, ce qui augmente la vitesse de traitement et concentre le modèle sur les caractéristiques les plus pertinentes. Enfin, une similarité cosinus est appliquée aux embeddings réduits pour retrouver les N images les plus similaires.
+
+![archi](architecture.png)
+
 
 ### Modèle Final
 Le modèle final utilisé est un **ResNet34**.
