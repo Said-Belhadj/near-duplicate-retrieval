@@ -76,10 +76,10 @@ Voici quelques exemples de prédiction réalisés par notre modèle.
 
 ### Exemple 1 : 
 #### Images Similaires Prédictes :
-![Image Similaire 1.1](prediction.png)
+![Image Similaire 1.1](prrediction.png)
 
 #### Images Similaires Prédictes :
-![Image Similaire 2.1](prrediction-2.png)
+![Image Similaire 2.1](prediction-2.png)
 
 #### Images Similaires Prédictes :
 ![Image Similaire 3.1](prrediction-3.png)
