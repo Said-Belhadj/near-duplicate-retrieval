@@ -30,6 +30,9 @@ Après l'augmentation des données, le dataset comprend désormais 2 192 images 
 - **Validation** : 408 images (18%)
 - **Test** : 264 images (12%)
 
+#### Distribution des images après data augmentation
+![distribution](distribution.png)
+
 ## Architecture proposée
 Le modèle développé pour ce projet repose sur plusieurs variantes de ResNet, notamment ResNet 152, ResNet 34 et ResNet 18. Le modèle a été entraîné sur 60 epochs avec deux fonctions de coût différentes pour une tâche de classification : la cross-entropy et la triplet margin.
 
